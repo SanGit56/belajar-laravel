@@ -1,2 +1,1 @@
-# belajar-laravel
-Belajar Laravel framework PHP
+Belajar Laravel _framework_ PHP
